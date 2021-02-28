@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey There 👋
+My name is Danny, and I'm a 18 years old developer.
+Visit my Website [here](https://danny.schapeit.com/)
 
-<!--
-**D3nn7/D3nn7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Founder from [@slynite](https://github.com/slynite) & [@deine-landschaft](https://deine-landschaft.de)
 
-Here are some ideas to get you started:
+## Main Skills
+- 👨‍💻 Java, PHP, C++
+- 👁️ CSS
+- 💽 MySQL, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [danny.schapeit.com](https://danny.schapeit.com)
+- [Instagram](https://instagram.com/d3nn7.ps)
+- [Facebook](https://www.facebook.com/dannytobias.schapeit.1)
+- [Xing](https://www.xing.com/profile/DannyTobias_Schapeit/)
+- [LinkedIn](https://www.linkedin.com/in/danny-tobias-schapeit-126710206/)
