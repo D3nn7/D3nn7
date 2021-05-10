@@ -3,5 +3,5 @@
 </div>
 
 ## Links
-[Website](https://danny.schapeit.com)
+[Website](https://danny.schapeit.com) | 
 [Slynite](https://slynite.com)
