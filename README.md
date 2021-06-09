@@ -3,5 +3,6 @@
 </div>
 
 ## Links
+[Sponsor me (Buymeacoffee](https://www.buymeacoffee.com/d3nn7) | 
 [Website](https://danny.schapeit.com) | 
 [Slynite](https://slynite.com)
